@@ -1,0 +1,9 @@
+name: SkyChat
+version: '${project.version}'
+main: skychat.skychat.SkyChat
+api-version: 1.18
+prefix: SkyChat
+depend: [ SkyFont, Vault ]
+authors: [ Yellox_Wind ]
+description: Plugin de gestion de chat de SkyNeoxx
+website: https://github.com/yelloxwind
